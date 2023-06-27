@@ -1,5 +1,5 @@
 # Encoding-Transmiting-decoding-vedio
-Project task: Simulating video transmission using MATLAB by encoding the video using different Convolutional codes then adding an error with probability p which simulate the channel  finally decoding the video
+Project task: Simulating video transmission using MATLAB by encoding the video using different Convolutional codes then adding an error with probability p which simulate the channel  finally decoding the video.
 This code appears to be a MATLAB script that reads a video file, separates its color components into binary streams, encodes and decodes them using convolutional codes with different trellis structures, introduces errors, and finally decodes the received data to produce the reconstructed video frames. The script also calculates the probability of error for different error ranges, and plots the results.Here's an overview of the script's main steps:
 1. Read the input video file and extract its color components.
 2. Define different trellis structures for convolutional encoding.
